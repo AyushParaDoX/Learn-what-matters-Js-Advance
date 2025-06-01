@@ -1,8 +1,9 @@
 #### Execution context (EC) -The environment in which javascript code is executed.it contains memory for variables/functions and code to execute.
-
+--------------------------------------------------------------------------
 #### Lexical environment (LE) - The environment where a function is physically written (defined) in code. it includes the function's local variable and a reference to its parent scope.
-
+---------------------------------------------------------------------------
 ##### Scope chain: chain of Lexical Environment that js follows to find variables.
+---------------------------------------------------------------------------
 ##### Call Stack: Stack that keeps track of active Execution contexts.
 
 ### Difference between let,const and var
