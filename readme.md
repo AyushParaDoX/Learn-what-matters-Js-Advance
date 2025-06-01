@@ -38,12 +38,14 @@ let user = {
   age: 13
 };
 
+---
+---
 ## 🧠 Stack Memory (JavaScript)
 
 ### 📌 Definition
 Stack memory is a region in memory used by JavaScript to **store primitive values** (like numbers, strings, booleans) and references to heap objects. It follows the **LIFO (Last In, First Out)** principle and is used for managing function calls and execution contexts.
 
----
+
 
 ### ⚙️ How It Works
 - Each time a function is called, a new **execution context** is pushed to the stack.
